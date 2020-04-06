@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/c%C3%B3mo-instalar-tema-en-hugo/</loc>
+    <loc>/posts/c%C3%B3mo-instalar-tema-en-hugo/</loc>
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/c%C3%B3mo-instalar-hugo/</loc>
+    <loc>/posts/c%C3%B3mo-instalar-hugo/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/ejercicio-volumen-de-luz/</loc>
+    <loc>/posts/ejercicio-volumen-de-luz/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/ejercicio-planos-de-luz/</loc>
+    <loc>/posts/ejercicio-planos-de-luz/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>/projects/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>/projects/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>/series/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

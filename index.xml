@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>christianortiz</title>
-    <link>http://www.example.com/</link>
+    <link>/</link>
     <description>Recent content on christianortiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TUTORIAL: Cómo instalar un tema en Hugo (Windows)</title>
-      <link>http://www.example.com/posts/c%C3%B3mo-instalar-tema-en-hugo/</link>
+      <link>/posts/c%C3%B3mo-instalar-tema-en-hugo/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/c%C3%B3mo-instalar-tema-en-hugo/</guid>
+      <guid>/posts/c%C3%B3mo-instalar-tema-en-hugo/</guid>
       <description>En este tutorial aprenderás a crear una website e instalar un tema (plantilla de sitio web) de Hugo utilizando la terminal de Windows
 Paso 1: Crear una website en Hugo usando la terminal de windows Para esto debemos abrir la terminal de windows. Tecleando/Buscando cmd en el Inicio de windows. Deberías poder abrir una terminal como ésta:
   Una vez dentro de la terminal, debes partir en la ruta de tu disco local C:</description>
@@ -24,12 +24,12 @@ Paso 1: Crear una website en Hugo usando la terminal de windows Para esto debemo
     
     <item>
       <title>TUTORIAL: Cómo instalar Hugo (Windows)</title>
-      <link>http://www.example.com/posts/c%C3%B3mo-instalar-hugo/</link>
+      <link>/posts/c%C3%B3mo-instalar-hugo/</link>
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/c%C3%B3mo-instalar-hugo/</guid>
+      <guid>/posts/c%C3%B3mo-instalar-hugo/</guid>
       <description>En este tutorial aprenderás a instalar Hugo en tu pc utilizando la terminal de Windows
-Paso 1: Instalar Hugo desde la terminal Primero debemos abrir la terminal de windows tecleando/buscando &amp;ldquo;cdm&amp;rdquo; en el Inicio de Windows.
+Paso 1: Instalar Hugo desde la terminal Primero debemos abrir la terminal de windows tecleando/buscando cmd en el Inicio de Windows.
 Deberías poder abrir esta terminal:
   Luego, dentro de la misma terminal que acabamos de abrir, debemos estar en la ruta del disco duro C:\ y escribir el siguiente código:
  choco install hugo -confirm</description>
@@ -37,29 +37,29 @@ Deberías poder abrir esta terminal:
     
     <item>
       <title>EJERCICIO: Volumen de luz</title>
-      <link>http://www.example.com/posts/ejercicio-volumen-de-luz/</link>
+      <link>/posts/ejercicio-volumen-de-luz/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/ejercicio-volumen-de-luz/</guid>
+      <guid>/posts/ejercicio-volumen-de-luz/</guid>
       <description>Encargo Este ejercicio es una continuación al ejercicio de Planos de luz y tenía como encargo generar esta vez un volumen de luz. Las instrucciones dadas no fueron muy específicas con el fin de que pudiesemos reflexionar e interpretar el encargo de manera personal he intentar ingeniar una manera de trasladar los conceptos aprendidos en el ejercicio anterior, el cual era bidimensional, a este encargo que es tridimensional al hablarnos de un volumen en lugar de un plano.</description>
     </item>
     
     <item>
       <title>EJERCICIO: Planos de luz</title>
-      <link>http://www.example.com/posts/ejercicio-planos-de-luz/</link>
+      <link>/posts/ejercicio-planos-de-luz/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/ejercicio-planos-de-luz/</guid>
+      <guid>/posts/ejercicio-planos-de-luz/</guid>
       <description>Encargo Este ejercicio tenía como encargo fabricar tres planos de luz diferentes cuyas formas proyectadas en el plano contaran con riqueza y variedad de sombras de distintas intensidades y formas, generando proyecciones en una amplia escala de grises según su densidad. Una vez hechos los planos de luz, se debía dibujar detalles sectoriales de éste con una técnica de sombreado por acumulación de forma: &amp;ldquo;hatching, puntillismo, etc&amp;rdquo;.
   Composición a partir de 3 planos de luz diferentes</description>
     </item>
     
     <item>
       <title>About Hugo</title>
-      <link>http://www.example.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
@@ -69,37 +69,37 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>Hablemos</title>
-      <link>http://www.example.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>/contact/</guid>
       <description>Puedes escribirme a Christianortizch@gmail.com si tienes una idea, una propuesta, un proyecto, una consulta, o simplemente si necesitas ayuda o quieres charlar. También me puedes contactar a través de mi perfil de Linked In. </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
     <item>
       <title>Projetos</title>
-      <link>http://www.example.com/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>/projects/</guid>
       <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
     <item>
       <title>Sobre Hugo</title>
-      <link>http://www.example.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>/about/</guid>
       <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
