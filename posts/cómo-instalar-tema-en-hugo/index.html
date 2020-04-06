@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Christian Ortiz">
+    <meta name="description" content="Portafolio Christian Ortiz">
+    <meta name="keywords" content="diseño,innovación,diseñador">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="TUTORIAL: Cómo instalar un tema en Hugo (Windows)"/>
+<meta name="twitter:description" content="En este tutorial aprenderás a crear una website e instalar un tema (plantilla de sitio web) de Hugo utilizando la terminal de Windows
+Paso 1: Crear una website en Hugo usando la terminal de windows Para esto debemos abrir la terminal de windows. Tecleando/Buscando cmd en el Inicio de windows. Deberías poder abrir una terminal como ésta:
+  Una vez dentro de la terminal, debes partir en la ruta de tu disco local C:"/>
+
+    <meta property="og:title" content="TUTORIAL: Cómo instalar un tema en Hugo (Windows)" />
+<meta property="og:description" content="En este tutorial aprenderás a crear una website e instalar un tema (plantilla de sitio web) de Hugo utilizando la terminal de Windows
+Paso 1: Crear una website en Hugo usando la terminal de windows Para esto debemos abrir la terminal de windows. Tecleando/Buscando cmd en el Inicio de windows. Deberías poder abrir una terminal como ésta:
+  Una vez dentro de la terminal, debes partir en la ruta de tu disco local C:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.example.com/posts/c%C3%B3mo-instalar-tema-en-hugo/" />
+<meta property="article:published_time" content="2020-03-25T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-03-25T00:00:00+00:00" />
+
+
+    
+      <base href="http://www.example.com/posts/c%C3%B3mo-instalar-tema-en-hugo/">
+    
+    <title>
+  TUTORIAL: Cómo instalar un tema en Hugo (Windows) · christianortiz
+</title>
+
+    
+      <link rel="canonical" href="http://www.example.com/posts/c%C3%B3mo-instalar-tema-en-hugo/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="http://www.example.com/css/coder.min.a4f332213a21ce8eb521670c614470c58923aaaf385e2a73982c31dd7642decb.css" integrity="sha256-pPMyITohzo61IWcMYURwxYkjqq84XipzmCwx3XZC3ss=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="http://www.example.com/css/coder-dark.min.83a2010dac9f59f943b3004cd6c4f230507ad036da635d3621401d42ec4e2835.css" integrity="sha256-g6IBDayfWflDswBM1sTyMFB60DbaY102IUAdQuxOKDU=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="http://www.example.com/images/siteicon2.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="http://www.example.com/images/siteicon1.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.68.3" />
+  </head>
+
+  
+  
+    
+  
+  <body class="colorscheme-auto">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="http://www.example.com/">
+      christianortiz
+    </a>
+    
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://www.example.com/posts/">Proyectos</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://www.example.com/contact/">Contacto</a>
+          </li>
+        
+      
+      
+    </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">TUTORIAL: Cómo instalar un tema en Hugo (Windows)</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-03-25T00:00:00Z'>
+                25/03/2020
+              </time>
+            </span>
+           
+          </div>
+          
+          
+        </div>
+      </header>
+
+      <div>
+        
+        <p>En este tutorial aprenderás a <strong>crear una website e instalar un tema (plantilla de sitio web) de Hugo utilizando la terminal de Windows</strong></p>
+<h4 id="paso-1-crear-una-website-en-hugo-usando-la-terminal-de-windows">Paso 1: Crear una website en Hugo usando la terminal de windows</h4>
+<p>Para esto debemos abrir la terminal de windows. Tecleando/Buscando <strong>cmd</strong> en el Inicio de windows. Deberías poder abrir una terminal como ésta:</p>
+<figure>
+    <img src="http://www.example.com/images/terminal.jpg"/> 
+</figure>
+
+<p>Una vez dentro de la terminal, debes partir en la ruta de tu disco local C:</p>
+<p>Luego, debes teclear el comando <strong>cd hugo</strong> para acceder a la carpeta hugo en tu terminal.</p>
+<p>Una vez estés en la ruta de la carpeta Hugo dentro de la terminal, teclearemos el comando <strong>hugo new site website1</strong>. Nótese que la palabra <strong>website1</strong> en el código corresponde al nombre de la carpeta que vas a crear para tu website, por lo tanto puede ser el nombre que tú estimes conveniente.</p>
+<p>Si lo hiciste bien, la terminal te mostrará el siguiente mensaje:</p>
+<figure>
+    <img src="http://www.example.com/images/newsite.jpg"/> 
+</figure>
+
+<p>Para confirmar que todo funcionó, en tu carpeta Hugo (en tu disco local C:) se te debiese haber creado una carpeta con el nombre de la website que acabamos de crear, que en este caso es <strong>website1</strong></p>
+<h4 id="paso-2-busca-y-descarga-un-tema-que-te-guste">Paso 2: Busca y descarga un tema que te guste</h4>
+<p>En el sitio <a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a> encontrarás una gran diversidad de temas hechos por colaboradores para que puedas comenzar a hacer tu sitio web desde una plantilla ya creada. Esto es ideal para aprender e iniciarse con Hugo!</p>
+<p>Una vez seleccionado un tema que te guste, hazle click, haz click en download y te llevará a un sitio de github.com
+Esto es un repositorio en donde se almacenan todos los archivos que componen el sitio web que elegiste.</p>
+<p>Vamos a hacer click en el botón verde que dice <strong>lone or Download</strong> que se encuentra a la derecha, y luego le daremos a <strong>Download ZIP</strong></p>
+<figure>
+    <img src="http://www.example.com/images/downloadtheme.jpg"/> 
+</figure>
+
+<p>Una vez descargado el ZIP en donde nosotros queramos, lo vamos a descomprimir y esta nueva carpeta la renombraremos y borraremos la última parte que dice <strong>-master</strong>.</p>
+<figure>
+    <img src="http://www.example.com/images/Descomprimir.jpg"/> 
+</figure>
+
+<h4 id="paso-3-instalar-el-tema-descargado-en-la-carpeta-de-tu-website-de-hugo">Paso 3: Instalar el tema descargado en la carpeta de tu website de Hugo</h4>
+<p>Esta carpeta que hemos descrompimido y renombrado la copiaremos y pegaremos dentro de la carpeta <strong>themes</strong> que se encuentra dentro de la carpeta <strong>website1</strong> que creamos anteriormente.</p>
+<figure>
+    <img src="http://www.example.com/images/copytheme.jpg"/> 
+</figure>
+
+<p>Ahora tenemos que tener abierto nuestro tema que en este caso es <strong>hugo-coder</strong> que acabamos de pegar en la carpeta <strong>themes</strong> que se encuentra dentro de la carpeta <strong>website1</strong>.
+También tenemos que tener abierto en otra ventana la carpeta <strong>website1</strong></p>
+<p>Vamos a abrir la carpeta <strong>hugo-coder</strong> que acabamos de pegar, y dentro de ella abriremos la carpeta llamada <strong>exampleSite</strong>.</p>
+<p>Ahora debemos copiar todos los archivos que están dentro de la carpeta <strong>exampleSite</strong> y pegarlos dentro de la carpeta <strong>Website1</strong>. Notarás que hay carpetas con el mismo nombre y un archivo llamado <strong>config.toml</strong>. Debemos <strong>REEMPLAZAR</strong> lo que ya está dentro de la carpeta <strong>website1</strong> por lo que estamos pegando desde la carpeta <strong>exampleSite</strong></p>
+<figure>
+    <img src="http://www.example.com/images/examplesite.jpg"/> 
+</figure>
+
+<p>Y con esto ya deberías tener tu tema instalado en la carpeta de tu website que hemos creado mediante la terminal.</p>
+<h4 id="paso-4-hacer-correr-la-website-en-el-hosting-local">Paso 4: Hacer correr la website en el hosting local.</h4>
+<p>Ahora vamos a la terminal de windows y empezamos desde la ruta del disco local C:</p>
+<p>Escribimos el comando <strong>cd hugo</strong> para ingresar a la carpeta hugo en la terminal.</p>
+<p>Luego escribimos el comando <strong>cd website1</strong> para ingresar a la carpeta de la website creada.</p>
+<p>Por último una vez estemos en esta ruta escribimos el comando <strong>hugo server</strong> para correr el servidor.</p>
+<p>En la terminal debería mostrarte el siguiente mensaje:</p>
+<figure>
+    <img src="http://www.example.com/images/hugoserver.jpg"/> 
+</figure>
+
+<p>Y por último si copias la dirección subrayada con rojo en la imagen de arriba, y la pegas en tu explorador de internet podrás abrir tu sitio web con el tema que le acabas de instalar!</p>
+<p>Con esto tu tema ya queda listo para comenzar a editarlo!</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+      <p>Amateurs wait for inspiration, the rest of us just get up and go to work. -Stephen King</p>
+    
+    
+    
+    
+      
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+
+    
+
+  </body>
+
+</html>

@@ -3,51 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/portfolio/work3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+    <loc>http://www.example.com/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <loc>http://www.example.com/posts/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <loc>http://www.example.com/posts/c%C3%B3mo-instalar-tema-en-hugo/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work6/</loc>
-    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+    <loc>http://www.example.com/posts/c%C3%B3mo-instalar-hugo/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>http://www.example.com/posts/ejercicio-volumen-de-luz/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>http://www.example.com/posts/ejercicio-planos-de-luz/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <loc>http://www.example.com/about/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/</loc>
-    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+    <loc>http://www.example.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://www.example.com/contact/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://www.example.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/series/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/</loc>
   </url>
   
 </urlset>
