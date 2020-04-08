@@ -6,24 +6,31 @@
     <description>Recent content in Posts on christianortiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>TUTORIAL: Cómo instalar un tema en Hugo (Windows)</title>
-      <link>/posts/c%C3%B3mo-instalar-tema-en-hugo/</link>
-      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Tutorial: Introducción a software creativo</title>
+      <link>/posts/tutorial-software/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/c%C3%B3mo-instalar-tema-en-hugo/</guid>
-      <description>En este tutorial aprenderás a crear una website e instalar un tema (plantilla de sitio web) de Hugo utilizando la terminal de Windows
-Paso 1: Crear una website en Hugo usando la terminal de windows Para esto debemos abrir la terminal de windows. Tecleando/Buscando cmd en el Inicio de windows. Deberías poder abrir una terminal como ésta:
-  Una vez dentro de la terminal, debes partir en la ruta de tu disco local C:</description>
+      <guid>/posts/tutorial-software/</guid>
+      <description>Tutorial en construcción </description>
     </item>
     
     <item>
-      <title>TUTORIAL: Cómo instalar Hugo (Windows)</title>
+      <title>Referentes sobre movilidad de emergencia</title>
+      <link>/posts/referentes-movilidad-emergencia/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/referentes-movilidad-emergencia/</guid>
+      <description>Post dedicado a referentes de movilidad de emergencia, y cómo éstos hacen sentido en el contexto actual del Covid-19.  Elon Musk&amp;rsquo;s Boring Tunnel (video) - The Boring Tunnel     Este proyecto de The Boring Company, empresa fundada por Elon Musk, busca descongestionar las calles de ciudades con alto tráfico y acabar así con los embotellamientos (traffic jams). ¿Cómo? Pues creando túneles debajo de las calles en las que pueden entrar autos eléctricos, y a través de un sistema de anclaje de las ruedas (parecido al de las montañas rusas), el vehículo puede alcanzar grandes velocidades sin riesgo de que se salga de su carril incluso si el chofer deja de estar en condiciones de conducir el vehículo durante el viaje.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Cómo instalar Hugo &#43; Un tema (Windows)</title>
       <link>/posts/c%C3%B3mo-instalar-hugo/</link>
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       
@@ -36,22 +43,39 @@ Deberías poder abrir esta terminal:
     </item>
     
     <item>
-      <title>EJERCICIO: Volumen de luz</title>
-      <link>/posts/ejercicio-volumen-de-luz/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Volumen de luz</title>
+      <link>/posts/volumen-de-luz/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/ejercicio-volumen-de-luz/</guid>
+      <guid>/posts/volumen-de-luz/</guid>
       <description>Encargo Este ejercicio es una continuación al ejercicio de Planos de luz y tenía como encargo generar esta vez un volumen de luz. Las instrucciones dadas no fueron muy específicas con el fin de que pudiesemos reflexionar e interpretar el encargo de manera personal he intentar ingeniar una manera de trasladar los conceptos aprendidos en el ejercicio anterior, el cual era bidimensional, a este encargo que es tridimensional al hablarnos de un volumen en lugar de un plano.</description>
     </item>
     
     <item>
-      <title>EJERCICIO: Planos de luz</title>
-      <link>/posts/ejercicio-planos-de-luz/</link>
+      <title>Plano de Luz 3</title>
+      <link>/posts/plano-de-luz-3/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/plano-de-luz-3/</guid>
+      <description>Encargo: Planos de luz Este ejercicio tenía como encargo fabricar tres planos de luz diferentes cuyas formas proyectadas en el plano contaran con riqueza y variedad de sombras de distintas intensidades y formas, generando proyecciones en una amplia escala de grises según su densidad. Una vez hechos los planos de luz, se debía dibujar detalles sectoriales de éste con una técnica de sombreado por acumulación de forma: &amp;ldquo;hatching, puntillismo, etc&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Plano de Luz 2</title>
+      <link>/posts/plano-de-luz-2/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/plano-de-luz-2/</guid>
+      <description>Encargo: Planos de luz Este ejercicio tenía como encargo fabricar tres planos de luz diferentes cuyas formas proyectadas en el plano contaran con riqueza y variedad de sombras de distintas intensidades y formas, generando proyecciones en una amplia escala de grises según su densidad. Una vez hechos los planos de luz, se debía dibujar detalles sectoriales de éste con una técnica de sombreado por acumulación de forma: &amp;ldquo;hatching, puntillismo, etc&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Plano de Luz 1</title>
+      <link>/posts/plano-de-luz-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/ejercicio-planos-de-luz/</guid>
-      <description>Encargo Este ejercicio tenía como encargo fabricar tres planos de luz diferentes cuyas formas proyectadas en el plano contaran con riqueza y variedad de sombras de distintas intensidades y formas, generando proyecciones en una amplia escala de grises según su densidad. Una vez hechos los planos de luz, se debía dibujar detalles sectoriales de éste con una técnica de sombreado por acumulación de forma: &amp;ldquo;hatching, puntillismo, etc&amp;rdquo;.
-  Composición a partir de 3 planos de luz diferentes</description>
+      <guid>/posts/plano-de-luz-1/</guid>
+      <description>Encargo: Planos de luz Este ejercicio tenía como encargo fabricar tres planos de luz diferentes cuyas formas proyectadas en el plano contaran con riqueza y variedad de sombras de distintas intensidades y formas, generando proyecciones en una amplia escala de grises según su densidad. Una vez hechos los planos de luz, se debía dibujar detalles sectoriales de éste con una técnica de sombreado por acumulación de forma: &amp;ldquo;hatching, puntillismo, etc&amp;rdquo;.</description>
     </item>
     
   </channel>

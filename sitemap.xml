@@ -4,17 +4,22 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/c%C3%B3mo-instalar-tema-en-hugo/</loc>
-    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+    <loc>/posts/tutorial-software/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/referentes-movilidad-emergencia/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,12 +28,22 @@
   </url>
   
   <url>
-    <loc>/posts/ejercicio-volumen-de-luz/</loc>
+    <loc>/posts/volumen-de-luz/</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/plano-de-luz-3/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/ejercicio-planos-de-luz/</loc>
+    <loc>/posts/plano-de-luz-2/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/plano-de-luz-1/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,10 +53,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
   </url>
   
   <url>
@@ -62,6 +73,10 @@
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
   </url>
   
 </urlset>
