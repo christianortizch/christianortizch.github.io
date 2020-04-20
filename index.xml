@@ -6,10 +6,38 @@
     <description>Recent content on christianortiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Propuesta de proyecto: Telecontrolar una operación no automatizable</title>
+      <link>/posts/propuesta-proyecto/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/propuesta-proyecto/</guid>
+      <description>Abstract Torno alfarero mecánico. Como resultado de la investigación, nos mueve una nueva forma de ver los procesos de producción. Ya que en una industria la automatización es algo que ya se ha pensado de forma que deja de lado la dimensión humana, tenemos que reinventar el sentido de necesidad de potencial humano para el manejo de las maquinas.
+Dado a esto, queremos tomar un rubro artesanal para mecanizarlo de la manera mas tecnologica posible sin tener que interferir en la interacción producto-artesano.</description>
+    </item>
+    
+    <item>
+      <title>Investigación: Telecomando para operaciones no automatizables</title>
+      <link>/posts/investigacion-telecomando/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/investigacion-telecomando/</guid>
+      <description>Tele control para producción. Dado al brote del COVID-19, los sistemas de producción están viéndose afectados negativamente ya que requiere de personal humano para funcionar, el mundo se está empezando a adaptar a una situación en la que los “trabajadores esenciales” se están convirtiendo en una suerte de esclavos del sistema, poniendo en riesgo tanto su salud como la de su familia. Esta adaptación esta cambiando la forma en que trabajamos, por lo que el teletrabajo se esta haciendo cada vez mas consistente, ya que es una forma de abordar el problema de el distanciamiento social, y de alguna manera, esta cambiando la forma en que el trabajo es percibido.</description>
+    </item>
+    
+    <item>
+      <title>Ejercicio: Modelado de férula en Fusion 360</title>
+      <link>/posts/ejercicio-ferula-fusion360/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ejercicio-ferula-fusion360/</guid>
+      <description>Próximamente </description>
+    </item>
     
     <item>
       <title>Tutorial: Técnicas para presentar un producto con Premiere Pro</title>
