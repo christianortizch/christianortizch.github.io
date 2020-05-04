@@ -6,27 +6,35 @@
     <description>Recent content in Posts on christianortiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Propuesta de proyecto: Telecontrolar una operación no automatizable</title>
+      <title>Ejercicio: Renderizado de drone en Keyshot</title>
+      <link>/posts/drone-keyshot/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/drone-keyshot/</guid>
+      <description>En construcción </description>
+    </item>
+    
+    <item>
+      <title>Propuesta de diseño: Physio-Control</title>
       <link>/posts/propuesta-proyecto/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/propuesta-proyecto/</guid>
-      <description>Abstract Torno alfarero mecánico. Como resultado de la investigación, nos mueve una nueva forma de ver los procesos de producción. Ya que en una industria la automatización es algo que ya se ha pensado de forma que deja de lado la dimensión humana, tenemos que reinventar el sentido de necesidad de potencial humano para el manejo de las maquinas.
-Dado a esto, queremos tomar un rubro artesanal para mecanizarlo de la manera mas tecnologica posible sin tener que interferir en la interacción producto-artesano.</description>
+      <description>Propuesta de diseño En el contexto de una pandemia como la que se encuentra viviendo el mundo con el covid-19 vemos sin duda una reducción de la movilidad de una ciudad en el más amplio espectro de la palabra. Es decir, se ve reducida la capacidad de las ciudades de mantenerse activas cumpliendo funciones y saciando necesidades que requieren de un movimiento conjunto sinérgico de la ciudad y los ciudadanos en el día a día.</description>
     </item>
     
     <item>
-      <title>Investigación: Telecomando para operaciones no automatizables</title>
-      <link>/posts/investigacion-telecomando/</link>
+      <title>Investigación para propuesta de diseño</title>
+      <link>/posts/investigacion-proyecto-dise%C3%B1o/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/investigacion-telecomando/</guid>
+      <guid>/posts/investigacion-proyecto-dise%C3%B1o/</guid>
       <description>Tele control para producción. Dado al brote del COVID-19, los sistemas de producción están viéndose afectados negativamente ya que requiere de personal humano para funcionar, el mundo se está empezando a adaptar a una situación en la que los “trabajadores esenciales” se están convirtiendo en una suerte de esclavos del sistema, poniendo en riesgo tanto su salud como la de su familia. Esta adaptación esta cambiando la forma en que trabajamos, por lo que el teletrabajo se esta haciendo cada vez mas consistente, ya que es una forma de abordar el problema de el distanciamiento social, y de alguna manera, esta cambiando la forma en que el trabajo es percibido.</description>
     </item>
     
@@ -36,16 +44,16 @@ Dado a esto, queremos tomar un rubro artesanal para mecanizarlo de la manera mas
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/ejercicio-ferula-fusion360/</guid>
-      <description>Próximamente </description>
+      <description>En construcción </description>
     </item>
     
     <item>
-      <title>Tutorial: Técnicas para presentar un producto con Premiere Pro</title>
+      <title>Tutorial: Video de producto con Premiere Pro</title>
       <link>/posts/tutorial-software/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/tutorial-software/</guid>
-      <description>Próximamente Técnicas gráficas para presentar un producto o servicio con Adobe Premiere Pro   </description>
+      <description>En construcción   </description>
     </item>
     
     <item>
